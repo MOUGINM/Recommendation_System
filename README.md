@@ -46,7 +46,7 @@ Si vous souhaitez l'utiliser dans le notebook `recomandation_clean_data.ipynb`.
 streamlit run streamlit_app.py
 ```
 
-Une fois démarré, ouvrez votre navigateur sur **http://localhost:8501** pour interagir avec l'application.
+Une fois démarré, ouvrez votre navigateur grace au lien générer par Streamlit dans le terminal pour interagir avec l'application.
 
 ---
 
